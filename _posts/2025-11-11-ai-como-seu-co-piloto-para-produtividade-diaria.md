@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: AI como seu co-piloto para produtividade diária
 date: 2025-11-11
 categories: [Inteligência Artificial, Produtividade, Ferramentas Digitais]
