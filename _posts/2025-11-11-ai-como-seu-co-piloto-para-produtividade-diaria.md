@@ -5,8 +5,6 @@ date: 2025-11-11
 categories: [Inteligência Artificial, Produtividade, Ferramentas Digitais]
 ---
 
-## AI como seu co-piloto para produtividade diária
-
 Nossa vida digital está cada vez mais cheia de informações e tarefas. É um desafio manter tudo em ordem, seja no trabalho, nos estudos ou mesmo em projetos pessoais. Vira e mexe, nos pegamos pensando em como seria bom ter um assistente para organizar esse monte de dados e ideias.
 
 A boa notícia é que esse assistente está mais acessível do que nunca: a inteligência artificial. Não estou falando de algo complexo para cientistas de dados, mas das ferramentas de IA conversacionais que muitos já usam. Elas podem ser verdadeiros co-pilotos para o nosso dia a dia.
