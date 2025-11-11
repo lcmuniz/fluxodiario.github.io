@@ -1,23 +1,31 @@
----
-layout: default
-title: Início
----
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  {%- seo -%}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Início</a> •
+        <a href="{{ '/sobre/' | relative_url }}">Sobre</a>
+      </nav>
+      <hr>
+    </header>
 
-{%- assign posts = site.posts | slice: 0, 5 -%}
+    {{ content }}
 
-{%- for post in posts -%}
+    <hr>
+    <footer>
+      <small>© {{ site.title }} — {{ "now" | date: "%Y" }}</small>
+    </footer>
 
-  <article>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p><small>{{ post.date | date: "%d %b %Y" }}</small></p>
-
-    {{ post.content }}
-
-    <hr/>
-
-  </article>
-{%- endfor -%}
-
-<p style="margin-top:1.5rem;">
-  <a href="{{ '/blog/' | relative_url }}">Veja todos os posts →</a>
-</p>
+  </main>
+</body>
+</html>
