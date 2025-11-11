@@ -16,19 +16,9 @@ remote_theme: aterenin/minima-reboot
 
 permalink: /:categories/:year/:month/:day/:title/
 
-minima_reboot:
-  date_format: "%b %-d, %Y"
-  date_format_short: "%b %-d"
-
 header_pages:
   - about.md
   - posts.md
-  - github.md
-
-footer_icons:
-  - username: aterenin/minima-reboot/
-    url: https://github.com/aterenin/minima-reboot/
-    icon: icon-github.svg
 
 paginate: 5
 
