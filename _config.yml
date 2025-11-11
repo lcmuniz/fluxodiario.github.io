@@ -8,7 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: aterenin/minima-reboot
 
 # Opções úteis
 markdown: kramdown
