@@ -1,15 +1,38 @@
 title: "Fluxo Diário"
 description: "Reflexões e ideias sobre produtividade, foco e tecnologia no dia a dia."
-url: "https://SEU-SITE.netlify.app" # atualize após o primeiro deploy
+url: "https://fluxodiario.netlify.app" # atualize após o primeiro deploy
 baseurl: ""
+author: GitHub User
+email: your-email@domain.com
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 remote_theme: aterenin/minima-reboot
 
-# Opções úteis
-markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+  - about.md
+  - posts.md
+  - github.md
+
+footer_icons:
+  - username: aterenin/minima-reboot/
+    url: https://github.com/aterenin/minima-reboot/
+    icon: icon-github.svg
+
+paginate: 5
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
