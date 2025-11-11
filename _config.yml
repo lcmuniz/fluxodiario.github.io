@@ -2,8 +2,8 @@ title: "Fluxo Diário"
 description: "Reflexões e ideias sobre produtividade, foco e tecnologia no dia a dia."
 url: "https://fluxodiario.netlify.app" # atualize após o primeiro deploy
 baseurl: ""
-author: GitHub User
-email: your-email@domain.com
+author: Luiz Carlos Muniz
+email: lcmuniz@gmail.com
 
 plugins:
   - jekyll-feed
