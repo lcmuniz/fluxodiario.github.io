@@ -1,31 +1,18 @@
-<!doctype html>
-<html lang="pt-br">
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title | default: site.title }}</title>
-  {%- seo -%}
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-</head>
-<body>
-  <main class="container">
-    <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <p>{{ site.description }}</p>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Início</a> •
-        <a href="{{ '/sobre/' | relative_url }}">Sobre</a>
-      </nav>
-      <hr>
-    </header>
+---
+layout: default
+title: Fluxo Diário
+---
 
-    {{ content }}
+# ☕ Fluxo Diário
 
-    <hr>
-    <footer>
-      <small>© {{ site.title }} — {{ "now" | date: "%Y" }}</small>
-    </footer>
+Ideias práticas sobre produtividade, foco e tecnologia.  
+Um novo post todos os dias.
 
-  </main>
-</body>
-</html>
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <small> — {{ post.date | date: "%d/%m/%Y" }}</small>
+  </li>
+{% endfor %}
+</ul>
