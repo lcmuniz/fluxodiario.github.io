@@ -6,7 +6,7 @@ categories: [Inteligência Artificial, Mídia Digital, Música]
 tags: [tecnologia, ia, criatividade]
 ---
 
-Hoje quero compartilhar algo que achei no mundo da tecnologia que chamou minha atenção: uma [pesquisa da Deezer em parceria com a Ipsos](https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12) mostra que 97% das pessoas não conseguem diferenciar músicas geradas por IA das feitas por humanos.
+Hoje quero compartilhar algo que achei no mundo da tecnologia que chamou minha atenção: uma <a href="https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12" target="_blank">pesquisa da Deezer em parceria com a Ipsos</a> mostra que 97% das pessoas não conseguem diferenciar músicas geradas por IA das feitas por humanos.
 
 É algo que faz a gente parar pra pensar. A música sempre foi vista como uma expressão humana (com emoção, falhas, variações, alma). Mas agora a tecnologia chegou a um nível em que a maioria de nós não percebe mais se está ouvindo um artista ou um algoritmo.
 
