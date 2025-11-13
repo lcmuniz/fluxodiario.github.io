@@ -3,15 +3,7 @@ layout: post
 title: Você reconhece quando uma música é feita por IA?
 date: 2025-11-11
 categories: [Inteligência Artificial, Mídia Digital, Música]
-tags:
-  [
-    tecnologia,
-    inteligência artificial,
-    música digital,
-    inovação,
-    criatividade,
-    direitos autorais,
-  ]
+tags: [tecnologia, ia, criatividade]
 ---
 
 Hoje quero compartilhar algo que achei no mundo da tecnologia que chamou minha atenção: uma [pesquisa da Deezer em parceria com a Ipsos](https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12) mostra que 97% das pessoas não conseguem diferenciar músicas geradas por IA das feitas por humanos.
