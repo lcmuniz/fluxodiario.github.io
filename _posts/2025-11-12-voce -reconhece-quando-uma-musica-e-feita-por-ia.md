@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Você reconhece quando uma música é feita por IA?
-date: 2025-11-11
+date: 2025-11-12
 categories: [Inteligência Artificial, Mídia Digital, Música]
 tags: [tecnologia, ia, criatividade]
 ---
