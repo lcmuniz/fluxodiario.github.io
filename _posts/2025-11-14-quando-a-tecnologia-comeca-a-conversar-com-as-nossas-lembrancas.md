@@ -6,7 +6,7 @@ categories: [Inteligência Artificial, Mídia Digital, Memória]
 tags: [tecnologia, ia, memoria]
 ---
 
-Um <a href="https://x.com/CalumWorthy/status/1988283207138324487"vídeo começou a circular</a> na Internet e chamou minha atenção. Não por causa de algum novo gadget ou truque de produtividade, mas porque parecia ter saído direto de um episódio de Black Mirror. A empresa 2Wai lançou um app que permite conversar com avatares de familiares que já morreram. A demonstração mostra uma mulher falando com a versão digital da mãe falecida, depois o avatar lendo histórias para o neto e, anos mais tarde, conversando com o mesmo menino já adulto. É uma narrativa construída para emocionar, mas que também levanta várias dúvidas.
+Um <a href="https://x.com/CalumWorthy/status/1988283207138324487" target="_blank">vídeo começou a circular</a> na Internet e chamou minha atenção. Não por causa de algum novo gadget ou truque de produtividade, mas porque parecia ter saído direto de um episódio de Black Mirror. A empresa 2Wai lançou um app que permite conversar com avatares de familiares que já morreram. A demonstração mostra uma mulher falando com a versão digital da mãe falecida, depois o avatar lendo histórias para o neto e, anos mais tarde, conversando com o mesmo menino já adulto. É uma narrativa construída para emocionar, mas que também levanta várias dúvidas.
 
 O fundador da empresa descreve o projeto como um “arquivo vivo da humanidade”. A frase é forte. A proposta é que cada pessoa consiga transformar lembranças e registros em uma presença contínua, capaz de conversar e reagir de forma natural. É fácil entender o apelo. Quem nunca desejou mais alguns minutos com alguém que se foi. Ao mesmo tempo, é aí que as coisas começam a ficar desconfortáveis.
 
